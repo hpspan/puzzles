@@ -18,7 +18,7 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>hp.puzzles</string>
+                    <string>com.hp.puzzles</string>
                     <key>bundle-version</key>
                     <string>1.0.1</string>
                     <key>kind</key>
